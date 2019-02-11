@@ -1,6 +1,6 @@
 ## Welcome to Nathan's Page!
 
-![GitHub Logo](Screen Shot 2019-02-10 at 8.07.16 PM)
+![GitHub Logo](Nathan1.JPG)
 
 ### School
 * Boise State University
