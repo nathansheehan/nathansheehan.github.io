@@ -1,7 +1,7 @@
 ## Welcome to Nathan's Page!
 
 
-
+![GitHub Logo](/Desktop/Nathan.JPG)
 
 ### School
 * Boise State University
