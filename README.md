@@ -6,7 +6,7 @@
 - Boise State University
 * Major: Mechanical Engineering
 * Minor: Computer Science
-* GPA: 3.269
+* GPA: 3.26
 
 
 ### Hobby
