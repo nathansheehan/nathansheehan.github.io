@@ -1,7 +1,7 @@
 ## Welcome to Nathan's Page!
 
 
-![GitHub Logo](/Users/Nathan1/Pictures/Nathan.JPG)
+![GitHub Logo](file:///Users/Nathan1/Desktop/Nathan.JPG)
 
 
 ### School
