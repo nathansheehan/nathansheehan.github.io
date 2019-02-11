@@ -3,7 +3,7 @@
 ![GitHub Logo](Nathan1.JPG)
 
 ### School
-* Boise State University
+- Boise State University
 * Major: Mechanical Engineering
 * Minor: Computer Science
 * GPA: 3.269
